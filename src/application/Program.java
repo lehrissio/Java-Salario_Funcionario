@@ -1,10 +1,3 @@
-/*
- * Ler os dados de um trabalhador com N contratos fornecido pelo usuário. Depois, solicita
-do usuário um mês e mostra qual foi o salário do funcionário nesse mês.
-
-Obs.: Level pode ser JUNIOR, MID_LEVE ou SENIOR;
- */
-
 package application;
 import entities.Department;
 import entities.HourContract;
